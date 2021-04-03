@@ -1,1 +1,1 @@
-# jsnotepad
+# jsnotepad dialog-search
